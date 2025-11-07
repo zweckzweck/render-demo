@@ -33,7 +33,7 @@ if st.session_state.show_text_sidebar:
     USA""")
 
 # Optional main area feedback
-st.write("Use the button in the sidebar to toggle the text.")
+st.write("Welcome Untitled Clothing")
 
 col1,col2,col3=st.columns(3)
 
