@@ -91,6 +91,8 @@ with col3:
 # X=plt.bar(x,y)
 # st.pyplot(X)
 
+st.button("Coming Soon .....",key="btn10")
+
 st.html(
     "<p>Since 1950</p>"
 )
