@@ -92,7 +92,7 @@ with col3:
 # st.pyplot(X)
 
 st.button("Coming Soon .....",key="btn10")
-
+st.title("Developed @ Meity")
 st.html(
     "<p>Since 1950</p>"
 )
