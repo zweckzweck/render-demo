@@ -93,6 +93,7 @@ with col3:
 
 st.button("Coming Soon .....",key="btn10")
 st.title("Developed @ Meity")
+st.button("Edit at HQ", key="btn11")
 st.html(
     "<p>Since 1950</p>"
 )
